@@ -1,2 +1,0 @@
-# JiveAddons
-My jive addon
